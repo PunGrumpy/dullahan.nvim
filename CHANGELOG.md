@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/PunGrumpy/dullahan.nvim/compare/v1.0.0...v1.1.0) (2023-11-23)
+
+
+### Features
+
+* **color:** add new theme for golden dullahan ([e67bafd](https://github.com/PunGrumpy/dullahan.nvim/commit/e67bafd5251b5d8d25fff215d8eb56ab296967c9))
+
 ## 1.0.0 (2023-11-16)
 
 
