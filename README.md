@@ -36,6 +36,10 @@ Here is what the improved color palette looks like:
 
 ![Dullahan White](.assets/preview-white.png)
 
+### Golden
+
+![Dullahan Golden](.assets/preview-golden.png)
+
 ## `✨` Features
 
 - Supports the latest [Neovim](https://github.com/neovim/neovim)
