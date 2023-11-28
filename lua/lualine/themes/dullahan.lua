@@ -11,22 +11,18 @@ dullahan.normal = {
 
 dullahan.insert = {
   a = { bg = colors.green, fg = colors.black },
-  b = { bg = colors.fg_gutter, fg = colors.green },
 }
 
 dullahan.command = {
   a = { bg = colors.yellow, fg = colors.black },
-  b = { bg = colors.fg_gutter, fg = colors.yellow },
 }
 
 dullahan.visual = {
   a = { bg = colors.magenta, fg = colors.black },
-  b = { bg = colors.fg_gutter, fg = colors.magenta },
 }
 
 dullahan.replace = {
   a = { bg = colors.red, fg = colors.black },
-  b = { bg = colors.fg_gutter, fg = colors.red },
 }
 
 dullahan.terminal = {
