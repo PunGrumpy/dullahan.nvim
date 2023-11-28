@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.1](https://github.com/PunGrumpy/dullahan.nvim/compare/v1.1.0...v1.1.1) (2023-11-28)
+
+
+### Bug Fixes
+
+* **lsp:** better type annotation for the HSL module ([53d03cd](https://github.com/PunGrumpy/dullahan.nvim/commit/53d03cdc3df346f5f73d8299ca8eef202a5f2e9c))
+* **lualine:** remove wrong var ([3abd96e](https://github.com/PunGrumpy/dullahan.nvim/commit/3abd96e7f71572c728e2b6273ffc5d53002b9905))
+
 ## [1.1.0](https://github.com/PunGrumpy/dullahan.nvim/compare/v1.0.0...v1.1.0) (2023-11-23)
 
 
