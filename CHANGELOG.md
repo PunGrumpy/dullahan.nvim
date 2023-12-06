@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.3](https://github.com/PunGrumpy/dullahan.nvim/compare/v1.1.2...v1.1.3) (2023-12-06)
+
+
+### Bug Fixes
+
+* **theme:** change `TreesitterContext` colorscheme ([d5af9b0](https://github.com/PunGrumpy/dullahan.nvim/commit/d5af9b04ac823e1af041b7bc67745c40732b8cb7))
+
 ## [1.1.2](https://github.com/PunGrumpy/dullahan.nvim/compare/v1.1.1...v1.1.2) (2023-12-06)
 
 
