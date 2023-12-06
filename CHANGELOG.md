@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.2](https://github.com/PunGrumpy/dullahan.nvim/compare/v1.1.1...v1.1.2) (2023-12-06)
+
+
+### Bug Fixes
+
+* **theme:** change color `base2` and change `IblIndent` colorscheme ([864da5b](https://github.com/PunGrumpy/dullahan.nvim/commit/864da5bbcfe4429517f2a9920fe23ed06dbe5e32))
+
 ## [1.1.1](https://github.com/PunGrumpy/dullahan.nvim/compare/v1.1.0...v1.1.1) (2023-11-28)
 
 
