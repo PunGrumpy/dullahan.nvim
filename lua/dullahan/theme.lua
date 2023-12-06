@@ -627,7 +627,7 @@ function M.setup()
     NavicText = { fg = c.fg, bg = c.bg_statusline },
     NavicSeparator = { fg = c.fg, bg = c.bg_statusline },
 
-    IblIndent = { fg = c.base03, nocombine = true },
+    IblIndent = { fg = c.base2, style = options.styles.comments, nocombine = true },
     IndentBlanklineChar = { fg = c.base03, nocombine = true },
     IndentBlanklineContextChar = { fg = c.orange300, nocombine = true },
 
