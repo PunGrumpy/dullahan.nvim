@@ -769,7 +769,7 @@ function M.setup()
     NoiceCompletionItemKindOperator = { fg = c.cyan, bg = c.none },
     NoiceCompletionItemKindSnippet = { fg = c.violet300, bg = c.none },
 
-    TreesitterContext = { bg = c.violet700 },
+    TreesitterContext = { bg = c.base2, style = options.styles.comments },
     Hlargs = { fg = c.yellow },
   }
 
