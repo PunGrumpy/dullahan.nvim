@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.5](https://github.com/PunGrumpy/dullahan.nvim/compare/v1.1.4...v1.1.5) (2024-01-18)
+
+
+### Bug Fixes
+
+* **lsp-trobule:** incorrect `bg` color for Troble Normal ([e6ea79a](https://github.com/PunGrumpy/dullahan.nvim/commit/e6ea79ac369abd2189e3fdfaefc21372cb25fa18))
+
 ## [1.1.4](https://github.com/PunGrumpy/dullahan.nvim/compare/v1.1.3...v1.1.4) (2023-12-06)
 
 
