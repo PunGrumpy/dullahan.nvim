@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.6](https://github.com/PunGrumpy/dullahan.nvim/compare/v1.1.5...v1.1.6) (2024-01-22)
+
+
+### Bug Fixes
+
+* **lualine:** lualine `b section` looks unpleasant ([4ce1044](https://github.com/PunGrumpy/dullahan.nvim/commit/4ce1044f4e834e93e3061fbee3c181af647e29a0))
+
 ## [1.1.5](https://github.com/PunGrumpy/dullahan.nvim/compare/v1.1.4...v1.1.5) (2024-01-18)
 
 
