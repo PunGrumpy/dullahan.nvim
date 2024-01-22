@@ -1,11 +1,12 @@
 local colors = require("dullahan.colors").setup({ transform = true })
 local config = require("dullahan.config").options
+local util = require("dullahan.util")
 
 local dullahan = {}
 
 dullahan.normal = {
   a = { bg = colors.blue, fg = colors.black },
-  b = { bg = colors.fg, fg = colors.black },
+  b = { bg = util.lighten(colors.bg_statusline, 0.9, colors.fg), fg = colors.fg },
   c = { bg = colors.bg_statusline, fg = colors.fg },
 }
 
