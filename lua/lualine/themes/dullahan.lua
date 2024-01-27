@@ -6,7 +6,7 @@ local dullahan = {}
 
 dullahan.normal = {
   a = { bg = colors.blue, fg = colors.black },
-  b = { bg = util.lighten(colors.bg_statusline, 0.9, colors.fg), fg = colors.fg },
+  b = { bg = colors.bg_statusline, fg = colors.fg },
   c = { bg = colors.bg_statusline, fg = colors.fg },
 }
 
