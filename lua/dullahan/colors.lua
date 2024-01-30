@@ -147,6 +147,7 @@ function M.setup(opts)
   local style = config.is_white() and config.options.light_style or config.options.style
   local palette = M[style] or {}
   if type(palette) == "function" then
+    ---@type Palette
     palette = palette()
   end
 
