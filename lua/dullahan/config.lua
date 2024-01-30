@@ -39,7 +39,10 @@ local defaults = {
 }
 
 ---@type Config
-M.options = {}
+M.options = {
+  on_colors = function(colors) end,
+  on_highlights = function(highlights, colors) end,
+}
 
 ---@param options Config|nil
 function M.setup(options)
