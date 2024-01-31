@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.7](https://github.com/PunGrumpy/dullahan.nvim/compare/v1.1.6...v1.1.7) (2024-01-30)
+
+
+### Bug Fixes
+
+* **config:** add missing field for `Config` type ([3bb14e9](https://github.com/PunGrumpy/dullahan.nvim/commit/3bb14e953d9a25e84c275285a9e06b09fbca0782))
+
 ## [1.1.6](https://github.com/PunGrumpy/dullahan.nvim/compare/v1.1.5...v1.1.6) (2024-01-22)
 
 
