@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.0](https://github.com/PunGrumpy/dullahan.nvim/compare/v1.1.7...v1.2.0) (2024-03-19)
+
+
+### Features
+
+* **theme:** highlight updates for `html`, `tsx`, `ts`, `jsx`, `js`, `vue`, and `markdown` ([58f4b1e](https://github.com/PunGrumpy/dullahan.nvim/commit/58f4b1e2a9002d058352a7a8ee91eef219110194))
+* **theme:** update highlights ([24f696e](https://github.com/PunGrumpy/dullahan.nvim/commit/24f696ec2384a00f86f055322fad1b2f25bcdb51))
+
 ## [1.1.7](https://github.com/PunGrumpy/dullahan.nvim/compare/v1.1.6...v1.1.7) (2024-01-30)
 
 
