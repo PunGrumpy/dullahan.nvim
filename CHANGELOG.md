@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/PunGrumpy/dullahan.nvim/compare/v1.2.0...v1.2.1) (2024-03-22)
+
+
+### Bug Fixes
+
+* **theme:** support italic text in `Markdown` file ([a35c94d](https://github.com/PunGrumpy/dullahan.nvim/commit/a35c94d6bc5dab6f13f527758a7c3fd0530d95e0))
+
 ## [1.2.0](https://github.com/PunGrumpy/dullahan.nvim/compare/v1.1.7...v1.2.0) (2024-03-19)
 
 
