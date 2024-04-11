@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.2](https://github.com/PunGrumpy/dullahan.nvim/compare/v1.2.1...v1.2.2) (2024-04-11)
+
+
+### Bug Fixes
+
+* **theme:** hightlight update for broken parser `tsx`, `jsx`, and `html` ([54a3886](https://github.com/PunGrumpy/dullahan.nvim/commit/54a388638415098eb2c5026cfa60c2092c23cf18))
+
 ## [1.2.1](https://github.com/PunGrumpy/dullahan.nvim/compare/v1.2.0...v1.2.1) (2024-03-22)
 
 
