@@ -1,4 +1,4 @@
-*dullahan.nvim.txt*       For Neovim >= 0.8.0       Last change: 2024 March 22
+*dullahan.nvim.txt*       For Neovim >= 0.8.0       Last change: 2024 April 11
 
 ==============================================================================
 Table of Contents                            *dullahan.nvim-table-of-contents*
@@ -15,6 +15,7 @@ Table of Contents                            *dullahan.nvim-table-of-contents*
   - Changelog                                        |dullahan.nvim-changelog|
   - License                                            |dullahan.nvim-license|
   - Credits                                            |dullahan.nvim-credits|
+1. Links                                                 |dullahan.nvim-links|
 
 
 🎨 MORE COLORS                              *dullahan.nvim-🎨-more-colors*
