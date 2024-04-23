@@ -1,4 +1,4 @@
-*dullahan.nvim.txt*       For Neovim >= 0.8.0       Last change: 2024 April 22
+*dullahan.nvim.txt*       For Neovim >= 0.8.0       Last change: 2024 April 23
 
 ==============================================================================
 Table of Contents                            *dullahan.nvim-table-of-contents*
@@ -7,14 +7,13 @@ Table of Contents                            *dullahan.nvim-table-of-contents*
   - 🌈 Styles                                    |dullahan.nvim-🌈-styles|
   - ✨ Features                                  |dullahan.nvim-✨-features|
   - ⚡️ Requirements                    |dullahan.nvim-⚡️-requirements|
-  - Installation                                  |dullahan.nvim-installation|
-  - Usage                                                |dullahan.nvim-usage|
-  - Configuration                                |dullahan.nvim-configuration|
-  - Overriding Colors & Highlight Groups|dullahan.nvim-overriding-colors-&-highlight-groups|
-  - Contributing                                  |dullahan.nvim-contributing|
-  - Changelog                                        |dullahan.nvim-changelog|
-  - License                                            |dullahan.nvim-license|
-  - Credits                                            |dullahan.nvim-credits|
+  - 📦 Installation                        |dullahan.nvim-📦-installation|
+  - 🚀Usage                                        |dullahan.nvim-🚀usage|
+  - 🪓 Overriding Colors & Highlight Groups|dullahan.nvim-🪓-overriding-colors-&-highlight-groups|
+  - 🔥 Contributing                        |dullahan.nvim-🔥-contributing|
+  - 📖 Changelog                              |dullahan.nvim-📖-changelog|
+  - 📝 License                                  |dullahan.nvim-📝-license|
+  - 🙏 Credits                                  |dullahan.nvim-🙏-credits|
 1. Links                                                 |dullahan.nvim-links|
 
 
@@ -54,7 +53,7 @@ GOLDEN ~
     0.7.2 <https://github.com/neovim/neovim/releases/tag/v0.7.2>
 
 
-INSTALLATION                                      *dullahan.nvim-installation*
+📦 INSTALLATION                            *dullahan.nvim-📦-installation*
 
 Install the theme with your preferred package manager, such as folke/lazy.nvim
 <https://github.com/folke/lazy.nvim>
@@ -69,7 +68,7 @@ Install the theme with your preferred package manager, such as folke/lazy.nvim
 <
 
 
-USAGE                                                    *dullahan.nvim-usage*
+🚀USAGE                                            *dullahan.nvim-🚀usage*
 
 
 VIM SCRIPT ~
@@ -127,56 +126,7 @@ LIGHTLINE
 <
 
 
-CONFIGURATION                                    *dullahan.nvim-configuration*
-
-
-  Set the configuration **BEFORE** loading the color scheme with `colorscheme
-  dullahan`.
-The theme offers four styles: |dullahan.nvim-black| and |dullahan.nvim-white|
-
-dullahan <https://github.com/PunGrumpy/dullahan.nvim> uses the default options,
-unless `setup` is explicitly called.
-
->lua
-    require("dullahan").setup({
-      -- your configuration comes here
-      -- or leave it empty to use the default settings
-      style = "storm", -- The theme comes in three styles, `black` (default), `gold` and `white`
-      light_style = "white", -- The theme is used when the background is set to light
-      transparent = false, -- Enable this to disable setting the background color
-      terminal_colors = true, -- Configure the colors used when opening a `:terminal` in [Neovim](https://github.com/neovim/neovim)
-      styles = {
-        -- Style to be applied to different syntax groups
-        -- Value is any valid attr-list value for `:help nvim_set_hl`
-        comments = { italic = true },
-        keywords = { italic = true },
-        functions = {},
-        variables = {},
-        -- Background styles. Can be "dark", "transparent" or "normal"
-        sidebars = "dark", -- style for sidebars, see below
-        floats = "dark", -- style for floating windows
-      },
-      sidebars = { "qf", "help" }, -- Set a darker background on sidebar-like windows. For example: `["qf", "vista_kind", "terminal", "packer"]`
-      day_brightness = 0.3, -- Adjusts the brightness of the colors of the **Day** style. Number between 0 and 1, from dull to vibrant colors
-      hide_inactive_statusline = false, -- Enabling this option, will hide inactive statuslines and replace them with a thin border instead. Should work with the standard **StatusLine** and **LuaLine**.
-      dim_inactive = false, -- dims inactive windows
-      lualine_bold = false, -- When `true`, section headers in the lualine theme will be bold
-    
-      --- You can override specific color groups to use other groups or a hex color
-      --- function will be called with a ColorScheme table
-      ---@param colors ColorScheme
-      on_colors = function(colors) end,
-    
-      --- You can override specific highlights to use other groups or a hex color
-      --- function will be called with a Highlights and ColorScheme table
-      ---@param highlights Highlights
-      ---@param colors ColorScheme
-      on_highlights = function(highlights, colors) end,
-    })
-<
-
-
-OVERRIDING COLORS & HIGHLIGHT GROUPS*dullahan.nvim-overriding-colors-&-highlight-groups*
+🪓 OVERRIDING COLORS & HIGHLIGHT GROUPS*dullahan.nvim-🪓-overriding-colors-&-highlight-groups*
 
 How the highlight groups are calculated:
 
@@ -261,23 +211,23 @@ To have undercurls show up and in color, add the following to your Tmux
 <
 
 
-CONTRIBUTING                                      *dullahan.nvim-contributing*
+🔥 CONTRIBUTING                            *dullahan.nvim-🔥-contributing*
 
 Pull requests are welcome and encouraged. For major changes, please open an
 issue first to discuss what you would like to change.
 
 
-CHANGELOG                                            *dullahan.nvim-changelog*
+📖 CHANGELOG                                  *dullahan.nvim-📖-changelog*
 
 See the CHANGELOG.md <CHANGELOG.md> file for details.
 
 
-LICENSE                                                *dullahan.nvim-license*
+📝 LICENSE                                      *dullahan.nvim-📝-license*
 
 Affero General Public License v3.0 <LICENSE> for more information.
 
 
-CREDITS                                                *dullahan.nvim-credits*
+🙏 CREDITS                                      *dullahan.nvim-🙏-credits*
 
 
 
