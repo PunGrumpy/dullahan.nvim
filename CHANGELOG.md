@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.4](https://github.com/PunGrumpy/dullahan.nvim/compare/v1.2.3...v1.2.4) (2024-05-27)
+
+
+### Bug Fixes
+
+* **lsp:** fix reference text styles ([c2095e3](https://github.com/PunGrumpy/dullahan.nvim/commit/c2095e385bf3e9a8712bd7bd5dfab0c3065b0ea1))
+
 ## [1.2.3](https://github.com/PunGrumpy/dullahan.nvim/compare/v1.2.2...v1.2.3) (2024-04-22)
 
 
