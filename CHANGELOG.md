@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/PunGrumpy/dullahan.nvim/compare/v1.2.4...v1.3.0) (2024-08-22)
+
+
+### Features
+
+* **theme:** add new `mini.nvim` hightlight groups ([0d81661](https://github.com/PunGrumpy/dullahan.nvim/commit/0d81661bc8290aacdf5fc700fd0837839ed53cf3))
+
 ## [1.2.4](https://github.com/PunGrumpy/dullahan.nvim/compare/v1.2.3...v1.2.4) (2024-05-27)
 
 
