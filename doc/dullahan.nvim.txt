@@ -1,4 +1,4 @@
-*dullahan.nvim.txt*        For Neovim >= 0.8.0        Last change: 2024 May 27
+*dullahan.nvim.txt*       For Neovim >= 0.8.0      Last change: 2024 August 22
 
 ==============================================================================
 Table of Contents                            *dullahan.nvim-table-of-contents*
